@@ -1,2 +1,1 @@
-# Internboot-
-Internboot data analysis project using Python for data cleaning, exploratory data analysis, feature engineering, and regression modeling. The notebook includes trend analysis, visualizations, and insights drawn from real dataset patterns to support better understanding and decision-making.
+Internboot sales data analysis project using Python and Pandas for data cleaning, exploratory data analysis, feature engineering, and time-based sales insights. Includes visualizations, moving averages, and patterns that support better understanding of sales trends.
